@@ -421,6 +421,7 @@ big {
 	display: inline-block;
 	border: 2px solid transparent;
 	margin-right: 15px;
+	border-radius:4px;
 }
 .bizwheel-btn:last-child{
 	margin:0;
