@@ -2452,6 +2452,16 @@ p.has-large-font-size {
 .single-feature:hover .icon-head i:after{
 	background:#fff;
 }
+.services-full  li:before {
+  font-family: FontAwesome;
+  content: "\f138";
+  position: absolute;
+  left : 1em;
+  color: skyblue;
+}
+.services-full li {line-height: 30px;margin-bottom:3px;margin-left: 15px;}
+.service-content {min-height:539px;}
+
 .single-feature h4 {
 	margin: 15px 0;
 	line-height: inherit;
