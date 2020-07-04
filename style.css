@@ -2459,9 +2459,6 @@ p.has-large-font-size {
   left : 1em;
   color: skyblue;
 }
-.services-full li {line-height: 30px;margin-bottom:3px;margin-left: 15px;}
-.service-content {min-height:539px;}
-
 .single-feature h4 {
 	margin: 15px 0;
 	line-height: inherit;
